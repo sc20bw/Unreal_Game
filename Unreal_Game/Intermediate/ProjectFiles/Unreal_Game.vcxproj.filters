@@ -11,6 +11,8 @@
     <None Include="..\..\Source\Unreal_GameEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -29,6 +31,12 @@
     <Filter Include="Source\Unreal_Game">
       <UniqueIdentifier>{E9DE0453-538A-302E-86DE-AFC514B56A7C}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Unreal_Game\LevelMapActor.cpp">
+      <Filter>Source\Unreal_Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Game\LevelMapActor.h">
+      <Filter>Source\Unreal_Game</Filter>
+    </ClInclude>
     <None Include="..\..\Source\Unreal_Game\Unreal_Game.Build.cs">
       <Filter>Source\Unreal_Game</Filter>
     </None>

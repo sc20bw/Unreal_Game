@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Unreal_Game.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal_Game\Unreal_Game\Intermediate\Build\Win64\x64\Unreal_GameEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"E:\Unreal_Game\Unreal_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\Unreal_Game\Unreal_Game.cpp.obj"
+"E:\Unreal_Game\Unreal_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\Unreal_Game\Default.rc2.res"
+/OUT:"E:\Unreal_Game\Unreal_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\Unreal_Game\UnrealEditor-Unreal_Game.lib"

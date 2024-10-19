@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal_game\\unreal_game\\intermediate\\build\\win64\\unrealeditor\\inc\\unreal_game\\uht\\unreal_game.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal_game\\unreal_game\\intermediate\\build\\win64\\x64\\unreal_gameeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "e:\\unreal_game\\unreal_game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unreal_game\\definitions.unreal_game.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
